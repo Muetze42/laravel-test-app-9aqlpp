@@ -1,6 +1,6 @@
 # Example App
 
-Set up .env
+Set up `.env`
 
 ````shell
 composer install
